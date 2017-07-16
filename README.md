@@ -1,5 +1,7 @@
 # getGitlabProjects
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/aiwb/get-gitlab-projects.svg)](https://greenkeeper.io/)
+
 1.run the command below:
 
 ```
